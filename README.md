@@ -1,4 +1,4 @@
-# Proyecto: **Consultas SQL - Tienda de Películas**
+# Proyecto: **Consultas SQL - Tienda de Películas** 🎬
 
 ### 📝 **Descripción**
 
@@ -10,13 +10,13 @@ El objetivo es familiarizarse con **DBeaver** y trabajar con bases de datos rela
 
 ### 📁 **Estructura del Proyecto**
 
-📝 **Consultas SQL**  
+💻 **Consultas SQL**  
 Las consultas SQL utilizadas en este proyecto se encuentran en el archivo **[consultas_tiendapelis.sql](consultas_tiendapelis.sql)**. Este archivo contiene todas las consultas que se han ejecutado para analizar los datos de la base de datos.
 
 🔎 **Esquema de la Base de Datos**  
 El esquema completo de la base de datos con todas las tablas y relaciones está disponible en el archivo **[esquema_tiendapelis.png](esquema_tiendapelis.png)**. Puedes consultarlo para ver cómo se estructuran las relaciones entre las tablas.
 
-**README.md**  
+📄 **README.md**  
 Documento que explica la descripción, estructura y análisis del proyecto.
 
 ---
