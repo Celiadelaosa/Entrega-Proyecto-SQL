@@ -6,30 +6,22 @@ Este proyecto se centra en analizar una base de datos relacionada con una tienda
 
 El objetivo es familiarizarse con **DBeaver** y trabajar con bases de datos relacionales, enfrentándose a los desafíos de un análisis de datos similar al que podría realizarse en un entorno empresarial real.
 
-
-
-
-
-
-
-
-
-
-
-## Análisis de datos sobre una tienda de películas
-
-## 📝 Descripción
-Este proyecto consiste en la comprensión de una base de datos relacionada con una tienda de películas ficticia y en la resolución de consultas propuestas en SQL relacionadas con estos datos. 
-
-El objetivo es familiarizarse con el uso de DBeaver y enfrentarse al análisis de cuestiones que podrían ocurrir en una empresa real.
-
 ---
 
 ### 📁 **Estructura del Proyecto**
 
-- **Consultas SQL**: Archivo principal que contiene las consultas SQL resueltas.
-- **README.md**: Documento que explica la descripción, estructura y análisis del proyecto.
-- **Esquema de la Base de Datos**: Imagen que muestra el diseño y relaciones de las tablas en la base de datos.
+## 📝 **Consultas SQL**
+
+Las consultas SQL utilizadas en este proyecto se encuentran en el archivo **[consultas_tiendapelis.sql](consultas_tiendapelis.sql)**. Este archivo contiene todas las consultas que se han ejecutado para analizar los datos de la base de datos.
+
+## 🔎 **Esquema de la Base de Datos**
+
+El esquema completo de la base de datos con todas las tablas y relaciones se encuentra en la imagen a continuación:
+
+![Esquema de la Base de Datos](esquema_tiendapelis.png)
+
+## **README.md**
+ Documento que explica la descripción, estructura y análisis del proyecto.
 
 ---
 
@@ -92,36 +84,3 @@ A continuación se presenta el **esquema de la base de datos** con las relacione
 ### 👩‍💻 **Autores**
 
 - **Celia de la Osa**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Proyecto: **Consultas SQL - Tienda de Películas**
-
-### 📝 **Descripción**
-
-Este proyecto se centra en analizar una base de datos relacionada con una tienda ficticia de alquiler de películas. A través de consultas SQL, se resuelven diversas cuestiones planteadas sobre los datos, con el fin de obtener información valiosa sobre clientes, empleados, películas y pagos.
-
-El objetivo es familiarizarse con **DBeaver** y trabajar con bases de datos relacionales, enfrentándose a los desafíos de un análisis de datos similar al que podría realizarse en un entorno empresarial real.
-
