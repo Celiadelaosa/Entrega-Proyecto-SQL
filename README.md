@@ -10,18 +10,14 @@ El objetivo es familiarizarse con **DBeaver** y trabajar con bases de datos rela
 
 ### 📁 **Estructura del Proyecto**
 
-📝 **Consultas SQL**
-
+📝 **Consultas SQL**  
 Las consultas SQL utilizadas en este proyecto se encuentran en el archivo **[consultas_tiendapelis.sql](consultas_tiendapelis.sql)**. Este archivo contiene todas las consultas que se han ejecutado para analizar los datos de la base de datos.
 
-🔎 **Esquema de la Base de Datos**
+🔎 **Esquema de la Base de Datos**  
+El esquema completo de la base de datos con todas las tablas y relaciones está disponible en el archivo **[esquema_tiendapelis.png](esquema_tiendapelis.png)**. Puedes consultarlo para ver cómo se estructuran las relaciones entre las tablas.
 
-El esquema completo de la base de datos con todas las tablas y relaciones se encuentra en la imagen a continuación:
-
-![Esquema de la Base de Datos](esquema_tiendapelis.png)
-
- **README.md**
- Documento que explica la descripción, estructura y análisis del proyecto.
+**README.md**  
+Documento que explica la descripción, estructura y análisis del proyecto.
 
 ---
 
@@ -44,16 +40,6 @@ El conjunto de datos simula las características de una tienda de alquiler de pe
 - **Empleados**: Información sobre los trabajadores, su ubicación y los clientes que atienden.
 - **Películas**: Datos sobre las películas, como el reparto de actores, categorías e idiomas.
 - **Pagos**: Información sobre las transacciones realizadas por los clientes.
-
----
-
-### 🔎 **Esquema de la Base de Datos**
-
-A continuación se presenta el **esquema de la base de datos** con las relaciones entre las tablas. Esto ayudará a entender cómo se conecta cada entidad dentro del sistema.
-
-![Esquema de la Base de Datos](ruta/a/tu/imagen.png)
-
-(Recuerda reemplazar **`ruta/a/tu/imagen.png`** con la URL de la imagen en GitHub).
 
 ---
 
