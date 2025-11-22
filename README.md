@@ -10,17 +10,17 @@ El objetivo es familiarizarse con **DBeaver** y trabajar con bases de datos rela
 
 ### 📁 **Estructura del Proyecto**
 
-## 📝 **Consultas SQL**
+📝 **Consultas SQL**
 
 Las consultas SQL utilizadas en este proyecto se encuentran en el archivo **[consultas_tiendapelis.sql](consultas_tiendapelis.sql)**. Este archivo contiene todas las consultas que se han ejecutado para analizar los datos de la base de datos.
 
-## 🔎 **Esquema de la Base de Datos**
+🔎 **Esquema de la Base de Datos**
 
 El esquema completo de la base de datos con todas las tablas y relaciones se encuentra en la imagen a continuación:
 
 ![Esquema de la Base de Datos](esquema_tiendapelis.png)
 
-## **README.md**
+ **README.md**
  Documento que explica la descripción, estructura y análisis del proyecto.
 
 ---
