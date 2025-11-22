@@ -11,10 +11,10 @@ El objetivo es familiarizarse con **DBeaver** y trabajar con bases de datos rela
 ### 📁 **Estructura del Proyecto**
 
 💻 **Consultas SQL**  
-Las consultas SQL utilizadas en este proyecto se encuentran en el archivo **[consultas_tiendapelis.sql](consultas_tiendapelis.sql)**. Este archivo contiene todas las consultas que se han ejecutado para analizar los datos de la base de datos.
+Las consultas SQL utilizadas en este proyecto se encuentran en el archivo **[consultas_tiendapelis.sql](consultas_tiendapelis.sql)**. Este archivo contiene todas las consultas que se han ejecutado para analizar la base de datos.
 
 🔎 **Esquema de la Base de Datos**  
-El esquema completo de la base de datos con todas las tablas y relaciones está disponible en el archivo **[esquema_tiendapelis.png](esquema_tiendapelis.png)**. Puedes consultarlo para ver cómo se estructuran las relaciones entre las tablas.
+El esquema completo de la base de datos con todas las tablas y relaciones está disponible en el archivo **[esquema_tiendapelis.png](esquema_tiendapelis.png)**. 
 
 📄 **README.md**  
 Documento que explica la descripción, estructura y análisis del proyecto.
@@ -25,10 +25,10 @@ Documento que explica la descripción, estructura y análisis del proyecto.
 
 Este proyecto fue desarrollado utilizando **DBeaver** como cliente SQL y **PostgreSQL** como sistema de gestión de bases de datos.
 
-1. Asegúrate de tener **PostgreSQL** instalado en tu sistema.
-2. Abre **DBeaver** y conecta con la base de datos **'PROYECTO'**.
-3. Verifica que la base de datos esté correctamente cargada y configurada.
-4. Ejecuta las consultas en el archivo SQL para obtener los resultados solicitados.
+1. Es necesario tener **PostgreSQL** instalado en el sistema.
+2. Al abrir **DBeaver** debe estar conectado con la base de datos **'PROYECTO'**.
+3. La base de datos debe estar correctamente cargada y configurada.
+4. Se deben ejecutar las consultas en el archivo SQL para obtener los resultados solicitados.
 
 ---
 
@@ -37,7 +37,7 @@ Este proyecto fue desarrollado utilizando **DBeaver** como cliente SQL y **Postg
 El conjunto de datos simula las características de una tienda de alquiler de películas. Las tablas incluyen información sobre:
 
 - **Clientes**: Datos personales, identificadores y pagos realizados.
-- **Empleados**: Información sobre los trabajadores, su ubicación y los clientes que atienden.
+- **Empleados**: Información sobre los trabajadores, su ubicación y tienda en la que trabajan.
 - **Películas**: Datos sobre las películas, como el reparto de actores, categorías e idiomas.
 - **Pagos**: Información sobre las transacciones realizadas por los clientes.
 
